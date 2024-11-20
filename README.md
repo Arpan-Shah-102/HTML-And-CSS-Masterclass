@@ -7,5 +7,5 @@
 ![Course Thumnail](course-thumb.jpg)
 
 # NOTE
-This is forked so you can view the github pages version to see what the final project will look like without getting any of the code.
-[Coffee Project](https://arpan-shah-102.github.io/HTML-And-CSS-Masterclass)
+### This is forked so you can view the github pages version to see what the final project will look like without getting any of the code.
+#### [Coffee Project](https://arpan-shah-102.github.io/HTML-And-CSS-Masterclass/12. Landing Pages)
